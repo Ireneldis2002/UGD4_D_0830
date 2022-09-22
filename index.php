@@ -17,7 +17,7 @@ crossorigin="anonymous">
         <nav class="navbar navbar-dark bg-dark fixed-top">
             <div class="container">
                 <!-- Nama : nama panggilan kalian -->
-                <a class="navbar-brand fw-bold" href="/gd4_d_0830">PHP - Nama</a>
+                <a class="navbar-brand fw-bold" href="/gd4_d_0830">PHP - Rene</a>
                 <div class="d-flex justify-content-end">
                     <button class="btn btn-primary me-2" type="button" >
                         <a class="text-light" style="text-decoration: none"
